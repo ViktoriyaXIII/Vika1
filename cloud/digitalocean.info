@@ -1,0 +1,7 @@
+import_url:   https://cloud-images.ubuntu.com/focal/current/focal-server-cloudimg-amd64.img
+import_date:  2021-05-26
+distribution: Ubuntu
+release:      20.04
+codename:     focal
+build_arch:   amd64
+build_tag:    08f2e840-0571-4d90-84f3-2bc914fefe5b
